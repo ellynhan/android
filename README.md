@@ -1,6 +1,6 @@
 # android
-=====
 practice android studio with kotlin
+
 ## TODO LIST 
 1. making calculator app
 *because I don't have calculator app in my phone😑*
