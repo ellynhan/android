@@ -1,5 +1,5 @@
-# android (practice android studio with Kotlin)
-android studio
+# android
+practice android studio with Kotlin
 =====
 ## TODO LIST 
 1. making calculator app
@@ -8,7 +8,7 @@ android studio
 3. painting app
 
 *************
-##### calculator
+#### CALCULATOR
 <https://www.youtube.com/watch?v=EpP6KgJtHTk>
 * First, just follow the video and then next, put kotlin code in to the my layout app. 
 *************
