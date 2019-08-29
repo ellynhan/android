@@ -15,5 +15,7 @@ practice android studio with kotlin
 * drawable icon: https://materialdesignicons.com/
 
 * add library: implementation 'net.objecthunter:exp4j:0.4.8'
+
+* how to change the application icon : https://webnautes.tistory.com/1306
 *************
   
