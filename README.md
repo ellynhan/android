@@ -4,6 +4,8 @@ practice android studio with kotlin
 ## TODO LIST 
 ~~1. making calculator app~~
 
++ correct multiple input of * and / (bug)
+
 2. memo app
 
 3. painting app
