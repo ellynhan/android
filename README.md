@@ -6,9 +6,11 @@ practice android studio with kotlin
 
 + correct multiple input of * and / (bug)
 
-2. memo app
+2. Custom Dialog
 
-3. painting app
+3. memo app
+
+4. painting app
 
 *************
 ## MEMO
@@ -27,3 +29,5 @@ practice android studio with kotlin
 * how to change the application icon : https://webnautes.tistory.com/1306
 *************
   
+#### CUSTOM DIALOG
+Dialog Fragment : <https://www.youtube.com/watch?v=BtjpeOfMy0Y>
