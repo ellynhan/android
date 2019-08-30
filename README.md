@@ -9,6 +9,12 @@ practice android studio with kotlin
 3. painting app
 
 *************
+## MEMO
+* val, var, let difference
+
+* Java, Kotlin difference
+
+*************
 #### CALCULATOR
 <https://www.youtube.com/watch?v=EpP6KgJtHTk>
 
