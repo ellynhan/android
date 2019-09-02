@@ -6,9 +6,9 @@ practice android studio with kotlin
 
 + correct multiple input of * and / (bug)
 
-2. Custom Dialog
+~~2. Custom Dialog~~
 
-3. memo app
+3. note app
 
 4. painting app
 
@@ -31,3 +31,8 @@ practice android studio with kotlin
   
 #### CUSTOM DIALOG
 Dialog Fragment : <https://www.youtube.com/watch?v=BtjpeOfMy0Y>
+
+**************
+
+#### NOTE APP
+Idk whether it is helpful or not but just remain it:<https://www.youtube.com/watch?v=N0dJt_l9kL4&t=278s>
