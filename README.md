@@ -31,10 +31,10 @@ practice android studio with kotlin
   
 #### CUSTOM DIALOG
 Dialog Fragment : <https://www.youtube.com/watch?v=BtjpeOfMy0Y>
+Dialog Login : <https://www.youtube.com/watch?v=2Nj6qCtaUqw>
 
 **************
 
 #### NOTE APP
-Idk whether it is helpful or not but just remain it:<https://www.youtube.com/watch?v=N0dJt_l9kL4&t=278s>
+Note App :<https://www.youtube.com/watch?v=N0dJt_l9kL4&t=278s>
 
-KOREDA!!! : https://www.youtube.com/watch?v=2Nj6qCtaUqw
