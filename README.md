@@ -10,7 +10,9 @@ practice android studio with kotlin
 
 ~~3. note app~~
 
-4. painting app
+4. flash card
+
+5. painting app
 
 *************
 ## MEMO
