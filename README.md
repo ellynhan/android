@@ -20,6 +20,10 @@ practice android studio with kotlin
 
 * Java, Kotlin difference
 
+* multiple setOnClickListener:
+
+<https://stackoverflow.com/questions/44301301/android-how-to-achieve-setonclicklistener-in-kotlin>
+
 *************
 #### CALCULATOR
 <https://www.youtube.com/watch?v=EpP6KgJtHTk>
