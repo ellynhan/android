@@ -24,6 +24,13 @@ practice android studio with kotlin
 
 <https://stackoverflow.com/questions/44301301/android-how-to-achieve-setonclicklistener-in-kotlin>
 
+* kotlin "is" syntax :
+
+<https://stackoverflow.com/questions/47067302/what-is-difference-between-as-and-is-operator-in-kotlin>
+
+<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof>
+
+
 *************
 #### CALCULATOR
 <https://www.youtube.com/watch?v=EpP6KgJtHTk>
