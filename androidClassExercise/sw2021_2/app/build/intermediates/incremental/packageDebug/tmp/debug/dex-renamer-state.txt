@@ -1,7 +1,0 @@
-#Mon Mar 22 17:30:53 KST 2021
-base.0=/Users/hanjaewon/폴더모음/학교생활/4학년 1학기/소프트웨어설계실험/android/androidClassExercise/sw2021_2/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
-path.1=classes.dex
-renamed.1=classes2.dex
-path.0=classes.dex
-renamed.0=classes.dex
-base.1=/Users/hanjaewon/폴더모음/학교생활/4학년 1학기/소프트웨어설계실험/android/androidClassExercise/sw2021_2/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
